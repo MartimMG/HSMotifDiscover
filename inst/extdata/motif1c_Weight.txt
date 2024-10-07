@@ -1,4 +1,4 @@
-SeqID	weight	
+SeqID	weight
 >seqM1c_1	0.89
 >seqM1c_2	0.99
 >seqM1c_3	0.88
